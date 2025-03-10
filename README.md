@@ -20,7 +20,7 @@ npm i
 ```javascript
 const name = "Atakan";
 const surname = "Argın";
-const phone = "+905412048372";
+const phone = "+905554443322";
 const mail = "atakan.argin@theadx.com";
 ```
 
