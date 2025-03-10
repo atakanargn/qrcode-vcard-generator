@@ -7,7 +7,7 @@ const svgContent = fs.readFileSync(imagePath, 'utf8');
 
 const name = "Atakan";
 const surname = "Argın";
-const phone = "+905412048372";
+const phone = "+905554443322";
 const mail = "atakan.argin@theadx.com";
 
 // vCard data
